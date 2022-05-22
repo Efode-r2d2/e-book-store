@@ -8,5 +8,9 @@ eBookStore is a laravel based backend system designed to manage books in a libra
 
 This is an open source project and you are welcome to contribute.
 
-## Manage Books
+## Installing AdminLte and FontAwosome
+
+* *** Install laravel ui package ***
+
+    `composer require laravel/ui`
 
