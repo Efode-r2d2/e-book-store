@@ -16,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('auth.login');
 });
+
+Route::post('/dashboard', function () {
+    return view('dashboard.index');
+})->name('dashboard.index');
