@@ -58,4 +58,12 @@ This is an open source project and you are welcome to contribute.
         require('admin-lte');
     ```
 
+* ***Run npm run watch***
+
+    `npm run dev && npm run watch`
+
+* ***Finally***
+
+    `php artisan optimize`
+    `php artisan serve`
 
