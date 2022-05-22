@@ -18,7 +18,11 @@ This is an open source project and you are welcome to contribute.
 
     `php artisan ui bootstrap`
 
-* ***Install AdminLte**
+* ***Install AdminLte***
 
     `npm install admin-lte`
+
+* ***Install Fontawesome***
+
+    `npm install --save @fortawesome/fontawesome-free`
 
