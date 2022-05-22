@@ -52,4 +52,10 @@ This is an open source project and you are welcome to contribute.
         @import '~admin-lte/dist/css/adminlte.css';
     ```
 
+* ***Update js/bootstrap.js with***
+
+    ```html
+        require('admin-lte');
+    ```
+
 
