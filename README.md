@@ -30,4 +30,26 @@ This is an open source project and you are welcome to contribute.
 
     `npm install @popperjs/core --save`
 
+* ***Update sass/app.css with***
+
+    ```html
+        // Fonts
+        @import url('https://fonts.googleapis.com/css?family=Nunito');
+
+        // Font Awesome
+        @import '~@fortawesome/fontawesome-free/scss/brands';
+        @import '~@fortawesome/fontawesome-free/scss/regular';
+        @import '~@fortawesome/fontawesome-free/scss/solid';
+        @import '~@fortawesome/fontawesome-free/scss/fontawesome';
+
+        // Variables
+        @import 'variables';
+
+        // Bootstrap
+        @import '~bootstrap/scss/bootstrap';
+
+        // AdminLTE
+        @import '~admin-lte/dist/css/adminlte.css';
+    ```
+
 
