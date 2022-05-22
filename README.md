@@ -26,3 +26,8 @@ This is an open source project and you are welcome to contribute.
 
     `npm install --save @fortawesome/fontawesome-free`
 
+* ***Install PooperJs based on bootstrap version***
+
+    `npm install @popperjs/core --save`
+
+
