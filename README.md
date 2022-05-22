@@ -10,7 +10,7 @@ This is an open source project and you are welcome to contribute.
 
 ## Installing AdminLte and FontAwosome
 
-* *** Install laravel ui package ***
+* ***Install laravel ui package***
 
     `composer require laravel/ui`
 
