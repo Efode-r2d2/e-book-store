@@ -14,3 +14,7 @@ This is an open source project and you are welcome to contribute.
 
     `composer require laravel/ui`
 
+* ***Configure ui assets***
+
+    `php artisan ui bootstrap`
+
